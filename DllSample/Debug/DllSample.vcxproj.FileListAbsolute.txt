@@ -1,0 +1,3 @@
+D:\Repositorios-Git\Pricode\Imagenscan\Scan_images\Debug\DllSample.dll
+D:\Repositorios-Git\Pricode\Imagenscan\DllSample\Debug\DllSample.vcxprojAssemblyReference.cache
+D:\Repositorios-Git\Pricode\Imagenscan\DllSample\Debug\DllSample.vcxproj.CopyComplete
